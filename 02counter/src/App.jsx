@@ -14,6 +14,7 @@ function App() {
     if(counter<20){
    counter = counter + 1
    setCounter(counter)
+ 
     }
    //or setCounter(counter+1)
   }
